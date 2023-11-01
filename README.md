@@ -1,6 +1,6 @@
-# Astro - Part 1 : Setup
+# Astro - Part 2 : Pages. Content. Styling.
 
-* Practice for Astro setup
+* Practice for Astro Pages, Content, and Styling.
 
 ## 🚀 Project Structure
 
