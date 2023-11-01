@@ -1,6 +1,7 @@
 # Astro - Part 2 : Pages. Content. Styling.
 
 * Practice for Astro Pages, Content, and Styling.
+* Deployment at Netlify: https://polite-elf-e3952a.netlify.app/
 
 ## 🚀 Project Structure
 
